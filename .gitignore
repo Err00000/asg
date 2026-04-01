@@ -1,0 +1,38 @@
+# React / Vite
+node_modules/
+dist/
+dist-ssr
+*.local
+.DS_Store
+*.log
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+.env
+.venv
+db.sqlite3
+
+# Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+.hypothesis/
+
+# Production builds
+build/
+coverage/
+
+# Misc
+.env*
+!.env.example
